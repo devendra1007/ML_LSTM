@@ -51,7 +51,6 @@ database.db
 .DS_Store
 Thumbs.db
 desktop.ini
-.h5
 
 # Images folder (usually large and should be stored elsewhere)
 # Uncomment if you want to exclude images
