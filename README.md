@@ -46,5 +46,4 @@ Notifications trigger for:
 
 <div align="center">
 Made with ❤️ by Sahil
-⭐ Star if helpful! ⭐
 </div>
