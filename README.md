@@ -1,4 +1,4 @@
-# Sign Language Recognition System
+# HandSpeak AI - Sign Language Recognition System
 
 Real-time sign language recognition system using computer vision and ML to detect and interpret gestures.
 
